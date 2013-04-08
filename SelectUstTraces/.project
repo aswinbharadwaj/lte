@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SelectUstTraces</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.linuxtools.tmf.project.nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Traces/lte-1/lte-1_</name>
+			<type>1</type>
+			<location>/home/aswin/workspace/SelectUstTraces/Traces/.bookmarks</location>
+		</link>
+		<link>
+			<name>Traces/lte-2/lte-2_</name>
+			<type>1</type>
+			<location>/home/aswin/workspace/SelectUstTraces/Traces/.bookmarks</location>
+		</link>
+		<link>
+			<name>Traces/lte-3/lte-3_</name>
+			<type>1</type>
+			<location>/home/aswin/workspace/SelectUstTraces/Traces/.bookmarks</location>
+		</link>
+	</linkedResources>
+</projectDescription>
